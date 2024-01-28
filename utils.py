@@ -1,4 +1,5 @@
 #!pip install python-dotenv
+# !pip install trulens_eval
 
 
 import os
