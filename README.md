@@ -1,4 +1,11 @@
-# advanced_rag_pipeline
+# RAG pileline & evaluations
+
+1. Build a baseline Retrieval Augmented Generation (RAG) using Llama Index and TrueLens for performance evaluation.
+2. A detailed breakdown of methods for evaluating Retrieval Augmented Generation (RAG) systems, including an introduction to the "RAG triad" - a triad of metrics that assess contextual relevance, validity, and response relevance.
+3. An advanced Retrieval Augmented Generation (RAG) technique known as Retrieval with suggestion window is considered.
+4. Another advanced Retrieval Augmented Generation (RAG) technique called auto-merging is discussed in detail.
+
+
 ![Screenshot 2024-01-27 at 23 38 47](https://github.com/apovalov/advanced_rag_pipeline/assets/43651275/81ff631a-108e-4d62-9dd8-536b290c2c26)
 
 **TrueLens** define a set of metrics so that we can benchmark
